@@ -16,7 +16,7 @@ p {
 
 @font-face {
     font-family: BMneco;
-    src: url(/fonts/BMneco.TTF);
+    src: url(./fonts/BMneco.TTF);
 }
 
 .img-1, .img-2, .img-3, .img-4 {
@@ -29,26 +29,26 @@ p {
 
 }
 .img-1 {
-  background-image: url(/images/img1.jpg);
+  background-image: url(./images/img1.jpg);
   min-height: 75vh;
   
   
 }
 
 .img-2 {
-  background-image: url(/images/img2.jpg);
+  background-image: url(./images/img2.jpg);
   min-height: 75vh;
   
 }
 
 .img-3 {
-  background-image: url(/images/img3.jpg);
+  background-image: url(./images/img3.jpg);
   min-height: 75vh;
   
 }
 
 .img-4 {
-  background-image: url(/images/img4.jpg);
+  background-image: url(./images/img4.jpg);
   min-height: 75vh;
   
 }
